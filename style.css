@@ -13,7 +13,7 @@
 .header img {
   width: 100%;
 }
-.more-inf {
+.header__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -24,7 +24,7 @@
   }
 
 }
-.main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -34,7 +34,7 @@
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.top-section__task-row-wrapper {
   display: flex;
 }
 ul {
