@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.header img {
+.header__img {
   width: 100%;
 }
 .header__more-inf {
@@ -49,7 +49,7 @@ input,
 button{
   outline: none;
 }
-button {
+.button{
   background: none;
   border: 0px;
   color: #888;
@@ -58,7 +58,7 @@ button {
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-button:hover {
+.button:hover {
   color: #3a3a3a;
 }
 /* Heading */
