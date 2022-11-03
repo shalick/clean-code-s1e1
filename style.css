@@ -62,7 +62,7 @@ button{
   color: #3a3a3a;
 }
 /* Heading */
-h3,
+.headline,
 .new-task-label {
   color: #333;
   font-weight: 700;
